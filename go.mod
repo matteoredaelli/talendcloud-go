@@ -1,3 +1,3 @@
-module matteoredaelli/talendcloud
+module redaelli.org/talendcloud
 
 go 1.17
